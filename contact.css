@@ -1,0 +1,24 @@
+*{
+    font-family: "Ubuntu", serif;
+    font-weight: 200;
+     font-style: normal;
+     
+     
+ }
+ .main h1{
+    font-size: 50px;
+    background-color:  rgb(16,3,83);
+    width: 270px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+.main{
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    background-color: rgb(245, 239, 230);
+    height: 10000vh;
+    width: 10000vh;
+}

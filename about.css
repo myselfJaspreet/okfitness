@@ -1,0 +1,21 @@
+*{
+   font-family: "Ubuntu", serif;
+   font-weight: 200;
+    font-style: normal;
+    
+}
+
+.main h1{
+    font-size: 50px;
+}
+
+.main{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#aboutus{
+    font-size: 70px;
+}
+
